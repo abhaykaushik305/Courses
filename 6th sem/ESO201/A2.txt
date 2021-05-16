@@ -1,0 +1,70 @@
+Ans1: Yes, because temperature and pressure are two independent properties and the air in an isolated roomis a simple compressible system.
+
+
+Ans2: The two thermometers will have different readings at the same temperature.
+	Reason:
+The operation of these two thermometers is based on the thermal expansion of a fluid.
+Both mercury and alcohol have different thermal expansion.
+If both fluids have a thermal expansion coefficients that vary linearly with temperature then they will always show the same reading.
+Otherwise the readings will deviate.
+The expansion of liquids is not linear and there is no way the expansion curves of two substances will be equal.
+Therefore the temperature reading on a mercury thermometer will differ from the reading on the alcohol thermometer although the difference is usually small.
+
+Ans3:  So, heat will be transferred from system B to system A until both systems reach the same temperature.
+
+
+Ans4:
+Remains same.
+
+Ans5: 
+Increase.
+
+Boiling happens when the external pressure is equal to the vapor pressure. If the external pressure goes up for any reason, then the temperature of the liquid can get higher again until the vapor pressure is equal to the new pressure.
+
+Briefly, Considering a closed system, we can apply Gay-Lussac's law i.e.
+
+Gay-Lussac's Law: The Pressure Temperature Law states that the pressure of a given amount of gas held at constant volume is directly proportional to the Kelvin temperature. As the pressure goes up, the temperature also goes up, and vice-versa.
+
+
+Ans6 :
+The pressure and temperature are dependant properties in the saturated mixture region because the phase change process i.e., either boiling or condensation occur at certain temperature only if the pressure is held constant. As the pressure changes the temperature also changes and hence the saturated mixture line also changes as shown in the T-v diagram
+
+At saturated state,
+
+With decrease in pressure, the gaseous medium’s capacity to accommodate liquid particles will be decreased.
+
+And so, the liquid particles will convert into gas form and expand. This expanssion will decrease temperature as the liquid particles will absorb heat from medium to expand.& Convert into gas particles…
+
+So, this way, pressure & temperature is dependent in case of saturated mixture.
+
+In order to keep the mixture saturated, changing and setting of pressure & temperature is important.
+
+
+
+Ans7:
+The cooking time will be the shortest in the third case i.e., when the pan is covered with a heavy lid. Because heavier the lid, greater the pressure in the pan. And we can see from table 3-1 as the pressure is high the saturation temperature at which water starts boiling will be high. And higher boiling temperatures mean shorter cooking times
+
+
+Ans8:
+
+
+
+Ans9: energy stored in elctric and Magnetic field. different temperatur means different frequency and wavelengths.
+
+
+
+Ans10:
+
+As the nitogen evaporates it freezes the affected skin by rapidly absorbing heat from it.
+
+
+
+Ans10:
+
+
+
+
+
+
+Joule A-> B adiabatic process B->A not possible....
+
